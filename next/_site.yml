@@ -1,0 +1,8 @@
+name: "EDWIN KWOK"
+navbar:
+  title: "Edwin Kwok"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
