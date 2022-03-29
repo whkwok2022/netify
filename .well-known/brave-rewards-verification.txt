@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: visionary-monstera-27ee45.netlify.app
-Token: 9d3c13c35b3e515da04cea9e7ea9a5fcce9c2ed82acb41a31dc6bd96c6f00782
+Domain: edwinkw.me
+Token: fb263518835e574cc69e5a8fa58f72a3f3833009c72838c750b90303dc9c6582
