@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: edwinkw.me
-Token: fb263518835e574cc69e5a8fa58f72a3f3833009c72838c750b90303dc9c6582
+Token: e0fec024beb29b0cf6c9cddcf7b7b07825499786477bd9d907c8221f8d5c965a
